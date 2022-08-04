@@ -1,7 +1,7 @@
 {
 "servers": [
     {
-      "name": "test-serv1",
+      "name": "Default",
       "protocol": "HTTP",
       "host": "34.222.143.149",
       "port": 80,
