@@ -3,7 +3,7 @@
     {
       "name": "Default",
       "protocol": "HTTP",
-      "host": "34.222.143.149",
+      "host": "54.188.62.14",
       "port": 80,
       "weight": 10,
       "is_backup": false,
