@@ -1,14 +1,7 @@
 {
-"servers": [
-    {
-      "name": "test-server",
-      "protocol": "HTTP",
-      "host": "54.188.62.14",
-      "port": 80,
-      "weight": 10,
-      "is_backup": false,
-      "mode": "In Service",
-      "health": "Up",
-    },
-  ]
+"clickjacking_protection": {
+    "enabled": true,
+    "render_options": "Same Origin",
+    "allowed_origin": ""
+  }
 }
