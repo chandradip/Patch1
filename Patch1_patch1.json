@@ -3,7 +3,7 @@
     {
       "name": "test-serv1",
       "protocol": "HTTP",
-      "host": "54.188.62.14",
+      "host": "34.222.143.149",
       "port": 80,
       "weight": 10,
       "is_backup": false,
