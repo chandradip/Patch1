@@ -1,2 +1,8 @@
 {
+"clickjacking_protection": {
+    "enabled": true,
+    "render_options": "Same Origin",
+    "allowed_origin": ""
+  }
 }
+
